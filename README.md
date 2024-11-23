@@ -24,5 +24,5 @@ Ce programme extrait un fichier XML contenu dans une archive ZIP, analyse les do
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/votre-utilisateur/xml-elasticsearch-indexer.git
+   git clone https://github.com/ahmed20450/xml-elasticsearch-indexer.git
    cd xml-elasticsearch-indexer
