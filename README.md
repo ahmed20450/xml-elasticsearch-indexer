@@ -15,14 +15,14 @@ Ce programme extrait un fichier XML contenu dans une archive ZIP, analyse les do
 ## Prérequis
 
 - **JDK 11** : Assurez-vous que Java 11 est installé et configuré sur votre machine.
-- **Elasticsearch 7.4.1** : Une instance locale ou distante doit être disponible.
+- **Elasticsearch 7.4.1** : Une instance locale.
 - **Git** : Pour cloner le dépôt.
 
 ---
 
 ### Étapes pour démarrer le programme
 
-1. **Cloner le dépôt :**
+ **Cloner le dépôt :**
    ```bash
    git clone https://github.com/ahmed20450/xml-elasticsearch-indexer.git
    cd xml-elasticsearch-indexer
