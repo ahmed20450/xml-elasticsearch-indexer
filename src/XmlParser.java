@@ -14,7 +14,7 @@ public class XmlParser {
         List<Product> products = new ArrayList<>();
 
         try {
-            // Création d'une fabrique de parseur SAX
+            // Création d'une fabrique de parseur SAX (Simple API for XML)
             SAXParserFactory factory = SAXParserFactory.newInstance();
             // Création d'un parseur SAX à partir de la fabrique
             SAXParser saxParser = factory.newSAXParser();
